@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Flux.Serialization</name>
+    </assembly>
+    <members>
+        <member name="T:Flux.Serialization.DataSerializer">
+            <summary>Contains methods for data serialization/deserialization.</summary>
+        </member>
+        <member name="M:Flux.Serialization.DataSerializer.Deserialize``1(System.String)">
+            <summary>Deserializes data using Newtonsoft.Json library to class T.</summary>
+            <typeparam name="T">Result data type.</typeparam>
+            <param name="data">Json string to deserialize.</param>
+            <returns>Deserialized object.</returns>
+        </member>
+        <member name="M:Flux.Serialization.DataSerializer.Deserialize``1(System.IO.Stream)">
+            <summary>Deserializes stream using Newtonsoft.Json library to class T.</summary>
+            <typeparam name="T">Result data type.</typeparam>
+            <param name="jsonStream">Json stream to deserialize.</param>
+            <returns>Deserialized object.</returns>
+        </member>
+        <member name="M:Flux.Serialization.DataSerializer.DynamicDeserialize(System.String)">
+            <summary>Deserializes data using Newtonsoft.Json library to dynamic object.</summary>
+            <param name="data">Json string to deserialize.</param>
+            <returns>Dynamic object represents Json.</returns>
+        </member>
+        <member name="M:Flux.Serialization.DataSerializer.DynamicDeserialize(System.IO.Stream)">
+            <summary> Deserializes stream using Newtonsoft.Json library to dynamic object.</summary>
+            <param name="jsonStream">Json string to deserialize.</param>
+            <returns>Dynamic object represents Json.</returns>
+        </member>
+        <member name="M:Flux.Serialization.DataSerializer.Serialize(System.Object)">
+            <summary>Serializes data using Newtonsoft.Json library.</summary>
+            <param name="data">Data to serialize.</param>
+            <returns>Json strings with serialized data.</returns>
+        </member>
+    </members>
+</doc>

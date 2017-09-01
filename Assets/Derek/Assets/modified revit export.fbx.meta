@@ -1,0 +1,202 @@
+fileFormatVersion: 2
+guid: 059cc165ecf44c448a3e24bd8079f84c
+timeCreated: 1489906287
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Basic Wall Wall 1 [2401]
+    100002: Basic Wall Wall 1 [2402]
+    100004: Basic Wall Wall 1 [2403]
+    100006: Basic Wall Wall 1 [2404]
+    100008: Basic Wall Wall 1 [2475]
+    100010: Basic Wall Wall 1 [2547]
+    100012: Basic Wall Wall 1 [2689]
+    100014: Basic Wall Wall 1 [2824]
+    100016: Basic Wall Wall 1 [2865]
+    100018: Basic Wall Wall 1 [3308]
+    100020: Bed_150x200_cm_16660 Bed_150x200_cm_16660 [26918]
+    100022: Contemporary_End_Table_2411 18"x22"x22" [29035]
+    100024: End_Table_10900 End_Table_10900 [27868]
+    100026: Floor Floor 1 [11128]
+    100028: Internal_Door_-_openable_in_3D_13628 762x1981 [31936]
+    100030: Internal_Door_-_openable_in_3D_13628 762x1981 [5478]
+    100032: Internal_Door_-_openable_in_3D_13628 762x1981 [5552]
+    100034: Light_Switch_-_Parametric_14926 2 - Double [30677]
+    100036: //RootNode
+    100038: Object_1
+    100040: Object_3
+    100042: Object_4
+    100044: Outlet_-_Duplex_3947 Duplex - 14" a.f.f. [31744]
+    100046: Shower_-_Fully_Parametric_17830 Shower_-_Fully_Parametric_17830 [11180]
+    100048: sink___table___mirror_for_bathroom_10977 sink___table___mirror_for_bathroom_10977
+      [15855]
+    400000: Basic Wall Wall 1 [2401]
+    400002: Basic Wall Wall 1 [2402]
+    400004: Basic Wall Wall 1 [2403]
+    400006: Basic Wall Wall 1 [2404]
+    400008: Basic Wall Wall 1 [2475]
+    400010: Basic Wall Wall 1 [2547]
+    400012: Basic Wall Wall 1 [2689]
+    400014: Basic Wall Wall 1 [2824]
+    400016: Basic Wall Wall 1 [2865]
+    400018: Basic Wall Wall 1 [3308]
+    400020: Bed_150x200_cm_16660 Bed_150x200_cm_16660 [26918]
+    400022: Contemporary_End_Table_2411 18"x22"x22" [29035]
+    400024: End_Table_10900 End_Table_10900 [27868]
+    400026: Floor Floor 1 [11128]
+    400028: Internal_Door_-_openable_in_3D_13628 762x1981 [31936]
+    400030: Internal_Door_-_openable_in_3D_13628 762x1981 [5478]
+    400032: Internal_Door_-_openable_in_3D_13628 762x1981 [5552]
+    400034: Light_Switch_-_Parametric_14926 2 - Double [30677]
+    400036: //RootNode
+    400038: Object_1
+    400040: Object_3
+    400042: Object_4
+    400044: Outlet_-_Duplex_3947 Duplex - 14" a.f.f. [31744]
+    400046: Shower_-_Fully_Parametric_17830 Shower_-_Fully_Parametric_17830 [11180]
+    400048: sink___table___mirror_for_bathroom_10977 sink___table___mirror_for_bathroom_10977
+      [15855]
+    2300000: Basic Wall Wall 1 [2401]
+    2300002: Basic Wall Wall 1 [2402]
+    2300004: Basic Wall Wall 1 [2403]
+    2300006: Basic Wall Wall 1 [2404]
+    2300008: Basic Wall Wall 1 [2475]
+    2300010: Basic Wall Wall 1 [2547]
+    2300012: Basic Wall Wall 1 [2689]
+    2300014: Basic Wall Wall 1 [2824]
+    2300016: Basic Wall Wall 1 [2865]
+    2300018: Basic Wall Wall 1 [3308]
+    2300020: Bed_150x200_cm_16660 Bed_150x200_cm_16660 [26918]
+    2300022: Contemporary_End_Table_2411 18"x22"x22" [29035]
+    2300024: End_Table_10900 End_Table_10900 [27868]
+    2300026: Floor Floor 1 [11128]
+    2300028: Internal_Door_-_openable_in_3D_13628 762x1981 [31936]
+    2300030: Internal_Door_-_openable_in_3D_13628 762x1981 [5478]
+    2300032: Internal_Door_-_openable_in_3D_13628 762x1981 [5552]
+    2300034: Light_Switch_-_Parametric_14926 2 - Double [30677]
+    2300036: Object_1
+    2300038: Object_3
+    2300040: Object_4
+    2300042: Outlet_-_Duplex_3947 Duplex - 14" a.f.f. [31744]
+    2300044: Shower_-_Fully_Parametric_17830 Shower_-_Fully_Parametric_17830 [11180]
+    2300046: sink___table___mirror_for_bathroom_10977 sink___table___mirror_for_bathroom_10977
+      [15855]
+    3300000: Basic Wall Wall 1 [2401]
+    3300002: Basic Wall Wall 1 [2402]
+    3300004: Basic Wall Wall 1 [2403]
+    3300006: Basic Wall Wall 1 [2404]
+    3300008: Basic Wall Wall 1 [2475]
+    3300010: Basic Wall Wall 1 [2547]
+    3300012: Basic Wall Wall 1 [2689]
+    3300014: Basic Wall Wall 1 [2824]
+    3300016: Basic Wall Wall 1 [2865]
+    3300018: Basic Wall Wall 1 [3308]
+    3300020: Bed_150x200_cm_16660 Bed_150x200_cm_16660 [26918]
+    3300022: Contemporary_End_Table_2411 18"x22"x22" [29035]
+    3300024: End_Table_10900 End_Table_10900 [27868]
+    3300026: Floor Floor 1 [11128]
+    3300028: Internal_Door_-_openable_in_3D_13628 762x1981 [31936]
+    3300030: Internal_Door_-_openable_in_3D_13628 762x1981 [5478]
+    3300032: Internal_Door_-_openable_in_3D_13628 762x1981 [5552]
+    3300034: Light_Switch_-_Parametric_14926 2 - Double [30677]
+    3300036: Object_1
+    3300038: Object_3
+    3300040: Object_4
+    3300042: Outlet_-_Duplex_3947 Duplex - 14" a.f.f. [31744]
+    3300044: Shower_-_Fully_Parametric_17830 Shower_-_Fully_Parametric_17830 [11180]
+    3300046: sink___table___mirror_for_bathroom_10977 sink___table___mirror_for_bathroom_10977
+      [15855]
+    4300000: Object_1
+    4300002: Object_3
+    4300004: Object_4
+    4300006: Internal_Door_-_openable_in_3D_13628 762x1981 [31936]
+    4300008: Outlet_-_Duplex_3947 Duplex - 14" a.f.f. [31744]
+    4300010: Light_Switch_-_Parametric_14926 2 - Double [30677]
+    4300012: Contemporary_End_Table_2411 18"x22"x22" [29035]
+    4300014: End_Table_10900 End_Table_10900 [27868]
+    4300016: Bed_150x200_cm_16660 Bed_150x200_cm_16660 [26918]
+    4300018: sink___table___mirror_for_bathroom_10977 sink___table___mirror_for_bathroom_10977
+      [15855]
+    4300020: Shower_-_Fully_Parametric_17830 Shower_-_Fully_Parametric_17830 [11180]
+    4300022: Floor Floor 1 [11128]
+    4300024: Internal_Door_-_openable_in_3D_13628 762x1981 [5552]
+    4300026: Internal_Door_-_openable_in_3D_13628 762x1981 [5478]
+    4300028: Basic Wall Wall 1 [3308]
+    4300030: Basic Wall Wall 1 [2865]
+    4300032: Basic Wall Wall 1 [2824]
+    4300034: Basic Wall Wall 1 [2689]
+    4300036: Basic Wall Wall 1 [2547]
+    4300038: Basic Wall Wall 1 [2475]
+    4300040: Basic Wall Wall 1 [2404]
+    4300042: Basic Wall Wall 1 [2403]
+    4300044: Basic Wall Wall 1 [2402]
+    4300046: Basic Wall Wall 1 [2401]
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

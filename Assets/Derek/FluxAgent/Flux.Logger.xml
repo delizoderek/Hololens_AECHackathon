@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Flux.Logger</name>
+    </assembly>
+    <members>
+        <member name="T:Flux.Logger.ILogger">
+            <summary>Provides interfaces to work with Logger.</summary>
+        </member>
+        <member name="M:Flux.Logger.ILogger.Info(System.String)">
+            <summary>Logs specified message at the Info level.</summary>
+            <param name="message">Log message</param>
+        </member>
+        <member name="M:Flux.Logger.ILogger.Info(System.String,System.Object[])">
+            <summary>Writes the diagnostic message at the Info level using the specified parameters.</summary>
+            <param name="message">A string containing format items.</param>
+            <param name="args">Arguments to format.</param>
+        </member>
+        <member name="M:Flux.Logger.ILogger.Info``1(``0)">
+            <summary>Writes the diagnostic message at the Info level.</summary>
+            <typeparam name="T">Type of the value.</typeparam>
+            <param name="value">The value to be written.</param>
+        </member>
+        <member name="M:Flux.Logger.ILogger.Trace(System.String)">
+            <summary>Logs specified message at the Trace level.</summary>
+            <param name="message">Log message</param>
+        </member>
+        <member name="M:Flux.Logger.ILogger.Trace(System.String,System.Object[])">
+            <summary>Writes the diagnostic message at the Trace level using the specified parameters.</summary>
+            <param name="message">A string containing format items.</param>
+            <param name="args">Arguments to format.</param>
+        </member>
+        <member name="M:Flux.Logger.ILogger.Trace``1(``0)">
+            <summary>Writes the diagnostic message at the Trace level.</summary>
+            <typeparam name="T">Type of the value.</typeparam>
+            <param name="value">The value to be written.</param>
+        </member>
+        <member name="M:Flux.Logger.ILogger.Debug(System.String)">
+            <summary>Logs specified message at the Debug level.</summary>
+            <param name="message">Log message</param>
+        </member>
+        <member name="M:Flux.Logger.ILogger.Debug(System.String,System.Object[])">
+            <summary>Writes the diagnostic message at the Debug level using the specified parameters.</summary>
+            <param name="message">A string containing format items.</param>
+            <param name="args">Arguments to format.</param>
+        </member>
+        <member name="M:Flux.Logger.ILogger.Debug``1(``0)">
+            <summary>Writes the diagnostic message at the Debug level.</summary>
+            <typeparam name="T">Type of the value.</typeparam>
+            <param name="value">The value to be written.</param>
+        </member>
+        <member name="M:Flux.Logger.ILogger.Warn(System.String)">
+            <summary>Logs specified message at the Warn level.</summary>
+            <param name="message">Log message</param>
+        </member>
+        <member name="M:Flux.Logger.ILogger.Warn(System.String,System.Object[])">
+            <summary>Writes the diagnostic message at the Warn level using the specified parameters.</summary>
+            <param name="message">A string containing format items.</param>
+            <param name="args">Arguments to format.</param>
+        </member>
+        <member name="M:Flux.Logger.ILogger.Warn``1(``0)">
+            <summary>Writes the diagnostic message at the Warn level.</summary>
+            <typeparam name="T">Type of the value.</typeparam>
+            <param name="value">The value to be written.</param>
+        </member>
+        <member name="M:Flux.Logger.ILogger.Error(System.String)">
+            <summary>Logs specified message at the Error level.</summary>
+            <param name="message">Log message</param>
+        </member>
+        <member name="M:Flux.Logger.ILogger.Error(System.String,System.Object[])">
+            <summary>Writes the diagnostic message at the Error level using the specified parameters.</summary>
+            <param name="message">A string containing format items.</param>
+            <param name="args">Arguments to format.</param>
+        </member>
+        <member name="M:Flux.Logger.ILogger.Error``1(``0)">
+            <summary>Writes the diagnostic message at the Error level.</summary>
+            <typeparam name="T">Type of the value.</typeparam>
+            <param name="value">The value to be written.</param>
+        </member>
+        <member name="M:Flux.Logger.ILogger.Fatal(System.String)">
+            <summary>Logs specified message at the Fatal level.</summary>
+            <param name="message">Log message</param>
+        </member>
+        <member name="M:Flux.Logger.ILogger.Fatal(System.String,System.Object[])">
+            <summary>Writes the diagnostic message at the Fatal level using the specified parameters.</summary>
+            <param name="message">A string containing format items.</param>
+            <param name="args">Arguments to format.</param>
+        </member>
+        <member name="M:Flux.Logger.ILogger.Fatal``1(``0)">
+            <summary>Writes the diagnostic message at the Fatal level.</summary>
+            <typeparam name="T">Type of the value.</typeparam>
+            <param name="value">The value to be written.</param>
+        </member>
+        <member name="T:Flux.Logger.LogHelper">
+            <summary>Creates and manages instances of Logger objects.</summary>
+        </member>
+        <member name="M:Flux.Logger.LogHelper.GetLogger(System.String)">
+            <summary>Gets the specified named logger.</summary>
+            <param name="name">Name of the logger.</param>
+            <returns>Flux.Logger.IFluxLogger that contains logger reference. Multiple calls to GetLogger with the same argument aren't guaranteed to return the same logger reference.</returns>
+        </member>
+    </members>
+</doc>
